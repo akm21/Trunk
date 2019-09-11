@@ -14,3 +14,5 @@ WATER
 AIR
 
 Welcome to myItPC.
+
+Should receive bag and ID
