@@ -8,4 +8,9 @@ TIME
 Earth
 Path
 
+
+SPACE
+WATER
+AIR
+
 Welcome to myItPC.
